@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Promise",
+  "base_artist": "Laufey",
+  "createdAt": "2026-03-26T19:21:54.040373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Promise Too Late",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/01_One_Promise_Too_Late_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Promise Too Late (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_One_Promise_Too_Late_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Promise",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Promise_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Angels of Promise",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_New_Angels_of_Promise_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Angels of Promise - Omikron: The Nomad Soul Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_New_Angels_of_Promise_-_Omikron__The_Nomad_Soul_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Angels of Promise (Omikron: The Nomad Soul Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_New_Angels_of_Promise_(Omikron__The_Nomad_Soul_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Promise",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_I_Promise_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Promise You",
+      "artist": "La Sera",
+      "has_synced": false,
+      "path": "select/08_I_Promise_You_La_Sera.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Promise",
+      "artist": "LiL Lotus",
+      "has_synced": false,
+      "path": "select/09_Promise_LiL_Lotus.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Promise to Try",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/10_Promise_to_Try_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Broken Promise",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/11_Broken_Promise_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Land of Promise",
+      "artist": "Nas & Damian Marley feat. Dennis Brown",
+      "has_synced": true,
+      "path": "select/12_Land_of_Promise_Nas_&_Damian_Marley_feat._Dennis_Brown.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Land of Promise (feat. Dennis Brown)",
+      "artist": "Nas & Damian Marley",
+      "has_synced": true,
+      "path": "select/13_Land_of_Promise_(feat._Dennis_Brown)_Nas_&_Damian_Marley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mutiny, I Promise You",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/14_Mutiny,_I_Promise_You_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Promise",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/15_Promise_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Promise",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Promise_Laufey.txt"
+    }
+  ]
+}
